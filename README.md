@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been called Gandalf (You shall not pass!), Willie Nelson (seriously?!), and "that guy from 'Duck Dynesty'"...
 -->
- 🌱 I’m currently learning git and github. I'm also learning more about Linux, including bash scripting (Python anyone?).
- 😄 Pronouns: he/him
- ⚡ Fun fact: I have been called Gandalf (You shall not pass!), Willie Nelson (seriously?!), and "that guy from 'Duck Dynesty'"...
+ - 🌱 I’m currently learning git and github. I'm also learning more about Linux, including bash scripting (Python anyone?).
+ - 😄 Pronouns: he/him
+ - ⚡ Fun fact: I have been called Gandalf (You shall not pass!), Willie Nelson (seriously?!), and "that guy from 'Duck Dynesty'" (which one?!)...
